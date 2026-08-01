@@ -41,7 +41,7 @@ actually *show up*, not just the ones who tap "going".
 
 ---
 
-## Main Project Features!
+## ✨ Main Project Features!
 
 ### Accounts, auth & roles
 
