@@ -13,6 +13,12 @@ actually *show up*, not just the ones who tap "going".
 ## Comercial Video:
 [![Demo Video](https://img.youtube.com/vi/tXgEIexYBwg/maxresdefault.jpg)](https://www.youtube.com/watch?v=tXgEIexYBwg)
 
+## 🖼️ Poster
+ 
+<img src="ShowUpPoster.png" alt="ShowUp Poster" width="600">
+
+</div>
+
 ## Final Presentation
 📊 [Download the presentation (PPTX, 204MB)](https://github.com/Alvesss04/ShowUP/releases/download/ShowUP/your-file.pptx)
 🎨 [View the presentation on Canva](https://canva.link/jefsxytqu7azb9j)
@@ -177,5 +183,11 @@ SafeSearch. Repeated unsafe uploads auto-trigger a temporary photo block.
 
 ## 📄 License
  
-Copyright © 2026 FiveGuysFCT - 
-All Rights Reserved.
+Copyright © 2026 **FiveGuysFCT**. All Rights Reserved.
+ 
+This project, including its source code, documentation, presentation materials, and video content, was created by the authors listed above. Unauthorized copying, distribution, modification, or use of this project, in whole or in part, without the express written permission of the authors is strictly prohibited.
+ 
+<div align="center">
+Made with ❤️ by FiveGuysFCT
+ 
+</div>
