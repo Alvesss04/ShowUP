@@ -9,13 +9,10 @@ Discover events near you, create your own, invite friends, chat, and
 actually *show up*, not just the ones who tap "going".
 
 [![Live Website](https://img.shields.io/badge/🌐_Live_Website-showup--499214.ew.r.appspot.com-4285F4?style=for-the-badge)](https://showup-499214.ew.r.appspot.com)
+[![Download APK](https://img.shields.io/badge/📱_Download_APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1CJgugwy6wm4ZskPAD1tx0X9UOrhXwayk/view?usp=drive_link)
 
 ## Comercial Video:
 [![Demo Video](https://img.youtube.com/vi/tXgEIexYBwg/maxresdefault.jpg)](https://www.youtube.com/watch?v=tXgEIexYBwg)
-
-## 🖼️ Poster
- 
-<img src="ShowUpPoster.png" alt="ShowUp Poster" width="600">
 
 </div>
 
@@ -180,6 +177,14 @@ SafeSearch. Repeated unsafe uploads auto-trigger a temporary photo block.
 | Manuel Figueiredo | |
 | Francisco Figueiredo | |
 | Miguel Morão | |
+
+<div align="center">
+ 
+## 🖼️ Poster
+ 
+<img src="ShowUpPoster.png" alt="ShowUp Poster" width="500">
+
+</div>
 
 ## 📄 License
  
