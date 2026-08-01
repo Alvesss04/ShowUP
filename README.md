@@ -8,12 +8,21 @@ Discover events near you, create your own, invite friends, chat, and
 **check in when you physically arrive** — ShowUp rewards the people who
 actually *show up*, not just the ones who tap "going".
 
-**[▶ Live demo — showup-499214.ew.r.appspot.com](https://showup-499214.ew.r.appspot.com)**
+**[▶ Live Website — showup-499214.ew.r.appspot.com](https://showup-499214.ew.r.appspot.com)**
+
+## Comercial Video:
+[![Demo Video](https://img.youtube.com/vi/tXgEIexYBwg/0.jpg)](https://www.youtube.com/watch?v=tXgEIexYBwg)
+
+## Final Presentation
+📊 [Download the presentation (PPTX, 204MB)](https://github.com/Alvesss04/ShowUP/releases/download/ShowUP/your-file.pptx)
+🎨 [View the presentation on Canva](https://canva.link/jefsxytqu7azb9j)
 
 </div>
 
 ---
 <div align="center">
+
+  # Tech Stack
 
 | Layer              | Technology                                                  |
 | ------------------ | ----------------------------------------------------------- |
