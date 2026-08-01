@@ -8,10 +8,10 @@ Discover events near you, create your own, invite friends, chat, and
 **check in when you physically arrive** — ShowUp rewards the people who
 actually *show up*, not just the ones who tap "going".
 
-**[▶ Live Website — showup-499214.ew.r.appspot.com](https://showup-499214.ew.r.appspot.com)**
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-showup--499214.ew.r.appspot.com-4285F4?style=for-the-badge)](https://showup-499214.ew.r.appspot.com)
 
 ## Comercial Video:
-[![Demo Video](https://img.youtube.com/vi/tXgEIexYBwg/0.jpg)](https://www.youtube.com/watch?v=tXgEIexYBwg)
+[![Demo Video](https://img.youtube.com/vi/tXgEIexYBwg/maxresdefault.jpg)](https://www.youtube.com/watch?v=tXgEIexYBwg)
 
 ## Final Presentation
 📊 [Download the presentation (PPTX, 204MB)](https://github.com/Alvesss04/ShowUP/releases/download/ShowUP/your-file.pptx)
@@ -164,3 +164,18 @@ SafeSearch. Repeated unsafe uploads auto-trigger a temporary photo block.
 - **Statistics** — platform metrics dashboard
 - **Cron** — auto-finish past events, lift expired suspensions, and other upkeek.
 - **App download** — serve the mobile APK.
+
+  ## 👥 Team
+ 
+| Name | GitHub |
+|---|---|
+| Tomás Alves | [@Alvesss04](https://github.com/Alvesss04) |
+| Tiago Poeira | |
+| Manuel Figueiredo | |
+| Francisco Figueiredo | |
+| Miguel Morão | |
+
+## 📄 License
+ 
+Copyright © 2026 FiveGuysFCT - 
+All Rights Reserved.
